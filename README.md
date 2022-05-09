@@ -2,8 +2,11 @@
 # < El primer repositorio, the first repository, que uso, that i use > #
 
 
-def gHerno(year):
-  age = 2022 - year
-  return age
+def age(self):
+        today = datetime.date.today()
+        age = today.year - self.birthdate.year
 
-print(gHerno(1987))
+        if today < datetime.date(today.year, self.birthdate.month, self.birthdate.day):
+            age -= 1
+
+        return age
