@@ -4,7 +4,7 @@
  🥊 Boxeo al amanecer, trabajo jornada completa, código de noche.  
  🚀 Constancia, foco y ganas de resolver problemas reales.
 
-💾 Actualmente cursando el [Máster en Desarrollo Full Stack de Conquer Blocks](https://conquerblocks.com)
+💾 Actualmente cursando el [Máster en Desarrollo Full Stack de Conquer Blocks](https://www.conquerblocks.com/)
 
 ---
 
